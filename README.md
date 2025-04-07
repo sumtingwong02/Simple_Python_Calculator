@@ -38,6 +38,10 @@ python3 calculator.py
 
 This is a simple project built as part of my coding portfolio to show how I write and structure basic Python code. It's not meant to be complex, but rather a small example of how I think through problems and build clean solutions.
 
+## Built With
+
+- Python 3
+
 ## Contact
 
 - GitHub: https://github.com/sumtingwong02
