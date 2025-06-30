@@ -1,5 +1,5 @@
 
-# Simple Python Calculator
+# pycalc
 
 A simple command-line calculator built with Python. This project was created to demonstrate clean coding practices and fundamental Python skills.
 
